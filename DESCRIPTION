@@ -1,0 +1,12 @@
+Package: bdreport
+Type: Package
+Title: Generate bookdown reports from individual Rmd files
+Version: 0.0.0
+Date: 2016-04-16
+Description: Generate reports from a lab-notebook
+Authors@R: c(
+    person("Devin", "Pastoor",
+    email = "devin.pastoor@gmail.com", role = c("aut", "cre")))
+License: MIT
+LazyData: TRUE
+RoxygenNote: 5.0.1
